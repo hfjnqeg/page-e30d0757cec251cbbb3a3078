@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8763c930921f6b5f2c576917",
+  "owner": "hfjnqeg",
+  "repo": "page-e30d0757cec251cbbb3a3078",
+  "title": "天航",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e30d0757cec251cbbb3a3078",
+      "a": "天航",
+      "b": "稳定全球clash加速器",
+      "entity": "天航",
+      "brand": "天航",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7e1aa3391de6923644e3252e7ac4a8657ac70ac4532611860b82f526cf1c1490",
+      "content": {
+        "primary_entity": "天航",
+        "keyword1": "天航",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选合适的客户端，不同系统对应不同订阅导入方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置天航",
+          "AI_DESCRIPTION": "，面向跨境办公、流媒体访问和游戏加速场景，提供基础版、旗舰版与团队版三档订阅。每月流量从 100GB 到 1000GB，设备数从 3 台到 20 台逐级提升，旗舰版配备 IPLC 专线优化，团队版支持企业定制路由。可按月付或年付，年付价格更划算。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个维度对比套餐，能更快锁定适合自己的一档。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备，适合个人轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量支持 5 台设备，IPLC 专线更适合游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量支持 20 台设备，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "流量分档",
+          "AI_FEATURE_TITLE_2": "设备适配",
+          "AI_FEATURE_TITLE_3": "团队方案",
+          "AI_GUIDE_INTRO": "根据设备数量与使用场景选定套餐，再按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "天航为跨境访问提供多档订阅方案，流量、设备数和线路类型可按需求选择，支持按月或按年付费，配置后即可在常用客户端上使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付价格更实惠",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量与设备数选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量和线路需求，从三档套餐中选定一档。",
+          "AI_STEP_TEXT_2": "确认自己的系统与客户端类型，查看对应的适配要求。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅地址，完成配置后连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "天航订阅方案",
+          "AI_FAQ_TITLE": "天航订阅常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "天航套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "按每月流量和同时在线设备数判断。轻度使用选基础版100GB，流媒体和游戏选旗舰版300GB，团队多人选团队版1000GB。",
+          "AI_FAQ_QUESTION_2": "天航订阅支持几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。同一时间超出数量限制可能导致连接中断。",
+          "AI_FAQ_QUESTION_3": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_3": "年付方案按十个月月付价格计算，基础版150元每年，旗舰版350元每年，团队版850元每年，相当于省去两个月费用。",
+          "AI_FAQ_QUESTION_4": "天航订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在客户端找到订阅导入入口，粘贴天航提供的订阅链接或配置信息，保存后更新节点即可使用。",
+          "AI_FAQ_QUESTION_5": "旗舰版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含IPLC专线，适合对延迟敏感的游戏加速和原生流媒体解锁，同时5台设备满足个人多终端切换。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kzdccz.cn",
+    "host": "kzdccz.cn"
+  },
+  "file_hashes": {
+    "index.html": "8653304c2c73fe36876f2f87faedf8d0e74ebf5ae4daad6514d3e4da0e00f80c",
+    "sitemap.xml": "bce493f53e458fba922746d519755d4d6cf412332b3de9762d21e9d91835737c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0a764fb6e6827e06df09fb2ee4510682660959c4d785fead717ef92b0677d524",
+    "robots.txt": "0b93046da66be9b0de6d593c1c8807cf61af28ac9ff5c8b6c9e30da3fddc821d",
+    "0356a9da91902f1022e0d58f8a591ba7.txt": "818979a65b1d12741ce69431b1b129efbb3841295830ebf41b350459942a5d48"
+  },
+  "revision": "3dc20be1fe22ee6218bc6affe59cde1cd296210bd0c38c7698dbe7e478c78fb9"
+}
